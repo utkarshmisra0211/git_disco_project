@@ -1,5 +1,10 @@
 # Course Allocation for Professors
 
+## Group member
+Utkarsh misra 2022A7PS0325G
+Ashit Jain 2022A7PS0606G
+Akshat Gosain 2022A7PS0154G
+
 ## Introduction
 
 This code is designed to allocate courses to professors based on their preferences and the university's requirements. The allocation process takes into consideration various factors, including professor preferences, categories, and university constraints. Here's an overview of the key aspects:
