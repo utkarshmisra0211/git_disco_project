@@ -1,9 +1,9 @@
 # Course Allocation for Professors
 
 ## Group member
-Utkarsh misra 2022A7PS0325G
-Ashit Jain 2022A7PS0606G
-Akshat Gosain 2022A7PS0154G
+- Utkarsh misra 2022A7PS0325G
+- Ashit Jain 2022A7PS0606G
+- Akshat Gosain 2022A7PS0154G
 
 ## Introduction
 
